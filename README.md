@@ -13,6 +13,7 @@ Ce projet implémente une interface mobile pour générer une facture dynamique 
 
 ## Captures d’écran
 
+<img width="494" height="697" alt="image" src="https://github.com/user-attachments/assets/efb3f74a-d363-4cae-8492-206e77246796" />
 
 
 ## Choix techniques
