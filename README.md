@@ -77,7 +77,7 @@ Le code est organisé pour rester lisible et modulaire :
   - thème global cohérent (bleu + accent)
 ##  Installation & lancement
 
-###  Cloner le repo
+### 1 Cloner le repo
 
 ```bash
 git clone https://github.com/SalmaSpace/Front-End-Module-de-Facturation-Mobile.git
@@ -112,12 +112,13 @@ flutter run
 <img width="220" height="380" alt="Formulaire" src="LIEN_IMAGE_FORMULAIRE" />
 
 **Aperçu facture (tableau + totaux HT / TVA / TTC)**  
-<img width="220" height="380" alt="Aperçu facture" src="LIEN_IMAGE_APERCU" />
+<img width="260" height="400" alt="image" src="https://github.com/user-attachments/assets/8c3cb840-de8f-46dc-a30a-4d70261518bc" />
 
 <!-- Optionnel -->
 <!--
 **Email invalide (validation)**
-<img width="220" height="380" alt="Email invalide" src="LIEN_IMAGE_EMAIL_INVALIDE" />
+<img width="260" height="400" alt="image" src="https://github.com/user-attachments/assets/02f760d4-211f-436d-8d18-9686594fdb21" />
+
 -->
 
 ---
