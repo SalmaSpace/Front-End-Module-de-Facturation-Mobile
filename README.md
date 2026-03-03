@@ -1,16 +1,23 @@
-# invoice_app
+# Front End – Module de Facturation Mobile (Flutter)
 
-A new Flutter project.
+Ce projet implémente une interface mobile pour générer une facture dynamique :
+- Gestion des articles (ajout / suppression / calcul)
+- Aperçu en temps réel
+- UI Flutter claire et responsive
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. `git clone https://github.com/SalmaSpace/Front-End-Module-de-Facturation-Mobile.git`
+2. `flutter pub get`
+3. `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Captures d’écran
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Choix techniques
+
+- State management : setState()
+- Repetitive widget : `ListView.builder`
+- Validation des champs
+- Structure : models / screens / widgets
