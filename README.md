@@ -115,7 +115,7 @@ flutter run
 <img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/f02218fa-2df0-46b6-987a-266c2555e343" />
 
 **Email invalide(validation)**  
-<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/f02218fa-2df0-46b6-987a-266c2555e343" />
+<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/54423c3c-4689-4fbb-9aea-4dd33cda6b8e" />
 
 
 ##  Choix techniques
