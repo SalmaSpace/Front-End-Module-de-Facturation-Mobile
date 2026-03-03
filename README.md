@@ -112,12 +112,12 @@ flutter run
 <img width="220" height="380" alt="Formulaire" src="LIEN_IMAGE_FORMULAIRE" />
 
 **Aperçu facture (tableau + totaux HT / TVA / TTC)**  
-<img width="260" height="400" alt="image" src="https://github.com/user-attachments/assets/8c3cb840-de8f-46dc-a30a-4d70261518bc" />
+<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/f02218fa-2df0-46b6-987a-266c2555e343" />
 
 <!-- Optionnel -->
 <!--
 **Email invalide (validation)**
-<img width="260" height="400" alt="image" src="https://github.com/user-attachments/assets/02f760d4-211f-436d-8d18-9686594fdb21" />
+<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/02f760d4-211f-436d-8d18-9686594fdb21" />
 
 -->
 
