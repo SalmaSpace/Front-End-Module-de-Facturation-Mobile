@@ -90,7 +90,10 @@ Le code est organisé pour rester lisible et modulaire :
   ```bash
   flutter run
 
-## Captures d’écran
+
+## Installation & lancement
+
+
  **Inspiration**
 <img width="200" height="300" alt="Inspiration" src="https://github.com/user-attachments/assets/efb3f74a-d363-4cae-8492-206e77246796" />
 ## Résultat
