@@ -109,19 +109,14 @@ flutter run
 ###  Résultat
 
 **Formulaire (avec 1-2 articles ajoutés)**  
-<img width="220" height="380" alt="Formulaire" src="LIEN_IMAGE_FORMULAIRE" />
+<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/44c99b82-0249-462f-be12-e0a0ac0a2603" />
 
 **Aperçu facture (tableau + totaux HT / TVA / TTC)**  
 <img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/f02218fa-2df0-46b6-987a-266c2555e343" />
 
-<!-- Optionnel -->
-<!--
-**Email invalide (validation)**
-<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/02f760d4-211f-436d-8d18-9686594fdb21" />
+**Email invalide(validation)**  
+<img width="260" height="600" alt="image" src="https://github.com/user-attachments/assets/f02218fa-2df0-46b6-987a-266c2555e343" />
 
--->
-
----
 
 ##  Choix techniques
 
