@@ -75,25 +75,66 @@ Le code est organisé pour rester lisible et modulaire :
   - tableau aligné pour les articles
   - totaux à droite et TTC mis en valeur
   - thème global cohérent (bleu + accent)
+##  Installation & lancement
 
-## Installation & lancement
+###  Cloner le repo
 
-1. Cloner le repo :
-   ```bash
-   git clone https://github.com/SalmaSpace/Front-End-Module-de-Facturation-Mobile.git
-   cd Front-End-Module-de-Facturation-Mobile
-   ### Installer les dépendances
-2. Installer les dépendances :
-  ```bash
-  flutter pub get
-3. Lancer l’application :
-  ```bash
-  flutter run
+```bash
+git clone https://github.com/SalmaSpace/Front-End-Module-de-Facturation-Mobile.git
+cd Front-End-Module-de-Facturation-Mobile
+```
 
+### 2️ Installer les dépendances
 
-## Installation & lancement
+```bash
+flutter pub get
+```
 
+### 3️ Lancer l’application
 
- **Inspiration**
+```bash
+flutter run
+```
+
+---
+
+##  Captures d’écran
+
+###  Inspiration
+
 <img width="200" height="300" alt="Inspiration" src="https://github.com/user-attachments/assets/efb3f74a-d363-4cae-8492-206e77246796" />
-## Résultat
+
+---
+
+###  Résultat
+
+**Formulaire (avec 1-2 articles ajoutés)**  
+<img width="220" height="380" alt="Formulaire" src="LIEN_IMAGE_FORMULAIRE" />
+
+**Aperçu facture (tableau + totaux HT / TVA / TTC)**  
+<img width="220" height="380" alt="Aperçu facture" src="LIEN_IMAGE_APERCU" />
+
+<!-- Optionnel -->
+<!--
+**Email invalide (validation)**
+<img width="220" height="380" alt="Email invalide" src="LIEN_IMAGE_EMAIL_INVALIDE" />
+-->
+
+---
+
+##  Choix techniques
+
+- State management : `setState()`
+- Gestion dynamique des articles : `List<InvoiceItem>` + `ListView.builder`
+- Champs contrôlés : `TextEditingController`
+- Validation email basique
+- Calcul automatique des totaux
+- UI claire et responsive
+
+---
+
+##  Notes
+
+Le projet est volontairement simple et lisible pour répondre aux critères du challenge.
+
+Le design s’inspire d’un modèle de facture réel tout en restant adapté à une interface mobile.
